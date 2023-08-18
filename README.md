@@ -5,6 +5,7 @@ This repository contains various scripts that you may find interesting.
 ```
 var_svg.py
 ```
+
 This script allows you to add variables in a SVG file with the format @@VARIABLE_NAME.
 Then in a CSV file with this format you can declare the values you want to assign
 | Var1        | Var2        | ...          |
